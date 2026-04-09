@@ -12,9 +12,9 @@ En este caso es porque hace el codigo mas escalable y flexible ante cambios. Tam
 haciendo el codigo mucho mas limpio.
 
 ## Como se usaron delegados en este proyecto
-1- Se definió un delegado que recibe dos números y retorna un resultado.
-2- Se crearon los métodos para las operaciones matemáticas: sumar, restar, multiplicar, dividir y potenciación.
-3- Se solicitó al usuario ingresar dos números y la operacion a realizar.
+* Se definió un delegado que recibe dos números y retorna un resultado.
+* Se crearon los métodos para las operaciones matemáticas: sumar, restar, multiplicar, dividir y potenciación.
+1. Se solicitó al usuario ingresar dos números y la operacion a realizar.
 4- Se asigna dinámicamente el método correspondiente al delegado según la opción elegida.
 5- Se ejecuta la operación utilizando el delegado y se muestra el resultado en pantalla.
 

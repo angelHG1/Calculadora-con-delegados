@@ -29,13 +29,16 @@ El programa asigna el metodo corresponiende a la operacion seleccionada en el de
 
 ## Capturas del programa en ejecución en distintos escenarios.
 #### Sumar 5 y 12 
-<img width="479" height="320" alt="image" src="https://github.com/user-attachments/assets/27d9a96c-a17d-4294-8578-008810aed72a" />
+<img width="379" height="220" alt="image" src="https://github.com/user-attachments/assets/27d9a96c-a17d-4294-8578-008810aed72a" />
+
 #### Multiplicar 9 y 8
-<img width="443" height="310" alt="image" src="https://github.com/user-attachments/assets/46a8c9d4-d0c0-42b5-9ac8-c93daa8068a5" />
+<img width="343" height="210" alt="image" src="https://github.com/user-attachments/assets/46a8c9d4-d0c0-42b5-9ac8-c93daa8068a5" />
+
 #### Dividir cualquier numero entre 0
-<img width="508" height="327" alt="image" src="https://github.com/user-attachments/assets/ec0c9170-2621-46fa-8980-b01ae3b18ada" />
+<img width="408" height="227" alt="image" src="https://github.com/user-attachments/assets/ec0c9170-2621-46fa-8980-b01ae3b18ada" />
+
 #### 5 elevado a 3
-<img width="407" height="289" alt="image" src="https://github.com/user-attachments/assets/65f9c90d-a418-4d6d-ac0c-911792fa2e40" />
+<img width="307" height="189" alt="image" src="https://github.com/user-attachments/assets/65f9c90d-a418-4d6d-ac0c-911792fa2e40" />
 
 
 

@@ -21,6 +21,7 @@ haciendo el codigo mucho mas limpio.
 ## Ejemplo de uso + capturas
 ### Datos de entrada
 se ingresan dos números y mediante el menú se selecciona la operación
+
 <img width="323" height="195" alt="image" src="https://github.com/user-attachments/assets/24244c19-f55a-4a32-afac-939520344e88" />
 
 ### Datos de salida
